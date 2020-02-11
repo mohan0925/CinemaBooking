@@ -1,0 +1,17 @@
+Enter Theatre Name
+odean
+Select Balcony or Normal Seating
+1.Balcony 
+2.Normal Seating
+1
+How many Adult viewers
+2
+How many Children viewers
+3
+you booked tickets in odean theatre
+your seating preference is Balcony
+Number of adults 2
+Number of adults 3
+Ticket fair for each Adult 100.99
+Ticket fair for each children 50.495
+Total cost is 353.465
